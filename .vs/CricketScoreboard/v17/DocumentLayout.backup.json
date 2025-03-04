@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|c:\\users\\chand\\downloads\\cricscorecard-main\\cricscorecard-main\\cricketscoreboard\\playernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|solutionrelative:cricketscoreboard\\playernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|c:\\users\\chand\\downloads\\cricscorecard-main\\cricscorecard-main\\cricketscoreboard\\cricketplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|solutionrelative:cricketscoreboard\\cricketplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|c:\\users\\chand\\downloads\\cricscorecard-main\\cricscorecard-main\\cricketscoreboard\\bstnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|solutionrelative:cricketscoreboard\\bstnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|c:\\users\\chand\\downloads\\cricscorecard-main\\cricscorecard-main\\cricketscoreboard\\cricketscoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|solutionrelative:cricketscoreboard\\cricketscoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|c:\\users\\chand\\downloads\\cricscorecard-main\\cricscorecard-main\\cricketscoreboard\\cricketscoreboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|solutionrelative:cricketscoreboard\\cricketscoreboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|c:\\users\\chand\\downloads\\cricscorecard-main\\cricscorecard-main\\cricketscoreboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D912D8-BD24-47E5-AF63-8CAFC154E90D}|CricketScoreboard\\CricketScoreboard.csproj|solutionrelative:cricketscoreboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BSTNode.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\BSTNode.cs",
+              "RelativeDocumentMoniker": "CricketScoreboard\\BSTNode.cs",
+              "ToolTip": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\BSTNode.cs",
+              "RelativeToolTip": "CricketScoreboard\\BSTNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:48:57.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CricketScoreboard.csproj",
+              "DocumentMoniker": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\CricketScoreboard.csproj",
+              "RelativeDocumentMoniker": "CricketScoreboard\\CricketScoreboard.csproj",
+              "ToolTip": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\CricketScoreboard.csproj",
+              "RelativeToolTip": "CricketScoreboard\\CricketScoreboard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T19:03:22.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CricketScoreBoard.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\CricketScoreBoard.cs",
+              "RelativeDocumentMoniker": "CricketScoreboard\\CricketScoreBoard.cs",
+              "ToolTip": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\CricketScoreBoard.cs",
+              "RelativeToolTip": "CricketScoreboard\\CricketScoreBoard.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAYwCIBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:42:40.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerNode.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\PlayerNode.cs",
+              "RelativeDocumentMoniker": "CricketScoreboard\\PlayerNode.cs",
+              "ToolTip": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\PlayerNode.cs",
+              "RelativeToolTip": "CricketScoreboard\\PlayerNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:42:05.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CricketPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\CricketPlayer.cs",
+              "RelativeDocumentMoniker": "CricketScoreboard\\CricketPlayer.cs",
+              "ToolTip": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\CricketPlayer.cs",
+              "RelativeToolTip": "CricketScoreboard\\CricketPlayer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:40:58.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\Program.cs",
+              "RelativeDocumentMoniker": "CricketScoreboard\\Program.cs",
+              "ToolTip": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\Program.cs",
+              "RelativeToolTip": "CricketScoreboard\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:15:33.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

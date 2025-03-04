@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NE3kSFQQJQs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chand\\Downloads\\CricScorecard-main\\CricScorecard-main\\CricketScoreboard\\CricketScoreboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chand\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
